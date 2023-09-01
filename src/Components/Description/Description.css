@@ -1,0 +1,21 @@
+.description{
+    height: 220px;
+    font-size: 15px;
+    margin-top: 50px;
+}
+
+header{
+    position: fixed;
+    z-index: 10000000000;
+}
+.movie-details{
+    position: relative;
+    top: 4%;
+}
+.description img {
+    width: 200px;
+    height: 250px;
+    margin-right: 20px;
+    background-color: rgb(202, 202, 202);
+    /* border-radius: 10px; */
+}
